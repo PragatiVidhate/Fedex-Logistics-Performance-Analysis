@@ -1,5 +1,4 @@
 # Fedex-Logistics-Performance-Analysis
-# FedEx Logistics Performance Analysis
 
 ## 📌 Project Overview
 
